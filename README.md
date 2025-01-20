@@ -16,6 +16,9 @@
    ```html
    <script src="js/script.js"></script>
    ```
-2. Ensure "use strict" is at the top of your script.js file.
+2. Ensure "use strict" is at the top of your `script.js` file.
 
-3. Write a script that displays an alert with the following message: "Welcome to this JavaScript exercise!"
+3. Write a script that displays an `alert` with the following message:
+   ```html
+   "Welcome to this JavaScript exercise!"
+   ```
